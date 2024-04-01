@@ -1,0 +1,20 @@
+[date]
+1 April 2024
+
+[clang-ver]
+Android (11580031, +pgo, +bolt, +lto, +mlgo, based on r522817) clang version 18.0.1 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)
+
+[clang-rev]
+based on r522817
+
+[clang-tar]
+https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r522817.tar.gz
+
+[binutils-ver]
+master
+
+[size]
+453M
+
+[shasum]
+15b0264ebe56646eccb1b4f38c25f87c3b4c67358d64510eb5d9ccbfeb114a09
