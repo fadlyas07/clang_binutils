@@ -1,0 +1,20 @@
+[date]
+8 April 2024
+
+[clang-ver]
+Android (9394278, based on r475365b) clang version 16.0.2 (https://android.googlesource.com/toolchain/llvm-project e1a2893d16330144736de1f4f0d06a844a03b9b0)
+
+[clang-rev]
+based on r475365b
+
+[clang-tar]
+https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r475365b.tar.gz
+
+[binutils-ver]
+master
+
+[size]
+328M
+
+[shasum]
+c31fe34eb769b32a22c4fb8437e20b9fc6944619dc748cac5df92f8a4ad64aae
