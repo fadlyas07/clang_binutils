@@ -1,0 +1,20 @@
+[date]
+20 February 2025
+
+[clang-ver]
+Android (12328485, +pgo, +bolt, +lto, +mlgo, based on r530567) clang version 19.0.0 (https://android.googlesource.com/toolchain/llvm-project 97a699bf4812a18fb657c2779f5296a4ab2694d2)
+
+[clang-rev]
+based on r530567
+
+[clang-tar]
+https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r530567.tar.gz
+
+[binutils-ver]
+master
+
+[size]
+0
+
+[shasum]
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855

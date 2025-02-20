@@ -2,4 +2,4 @@
 # This file provides the link to the latest successfully compiled AOSP Clang with Binutils.
 # It serves as a reference for accessing the most recent version of Clang for use in various projects.
 
-latest_url=https://github.com/fadlyas07/clang_binutils/releases/download/08042024/clang-16.0.2-r475365b-08042024-0826.tar.zst
+latest_url=https://github.com/fadlyas07/clang_binutils/releases/download/20022025/clang-19.0.0-r530567-20022025-2033.tar.zst

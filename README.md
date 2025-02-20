@@ -9,5 +9,5 @@ This repository aims to enhance precompiled Clang, such as [AOSP Clang](https://
 Here are the latest releases available for use:
 
 ```bash
-https://github.com/fadlyas07/clang_binutils/releases/download/08042024/clang-16.0.2-r475365b-08042024-0826.tar.zst
+https://github.com/fadlyas07/clang_binutils/releases/download/20022025/clang-19.0.0-r530567-20022025-2033.tar.zst
 ```
