@@ -1,0 +1,20 @@
+[date]
+21 February 2025
+
+[clang-ver]
+Android (13065274, +pgo, +bolt, +lto, +mlgo, based on r547379) clang version 20.0.0 (https://android.googlesource.com/toolchain/llvm-project b718bcaf8c198c82f3021447d943401e3ab5bd54)
+
+[clang-rev]
+based on r547379
+
+[clang-tar]
+https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/main/clang-r547379.tar.gz
+
+[binutils-ver]
+master
+
+[size]
+1.1G
+
+[shasum]
+387ba134ef69a1a9946ecb6a80b284f6f20b0317204d7135b810a6380d809877
