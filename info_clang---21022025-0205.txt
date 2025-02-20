@@ -1,0 +1,20 @@
+[date]
+21 February 2025
+
+[clang-ver]
+
+
+[clang-rev]
+based on 
+
+[clang-tar]
+
+
+[binutils-ver]
+master
+
+[size]
+19M
+
+[shasum]
+5fe7faf90bdf444960c8d77d016cd132c7be14cd0387a7ba75f92e09285d2fe4
