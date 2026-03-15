@@ -1,0 +1,20 @@
+[date]
+15 March 2026
+
+[clang-ver]
+clang version 13.0.0 (https://github.com/llvm/llvm-project/ 24c8eaec9467b2aaf70b0db33a4e4dd415139a50)
+
+[clang-rev]
+based on 13.0.0
+
+[clang-tar]
+https://github.com/llvm/llvm-project/releases/download/llvmorg-13.0.0/clang+llvm-13.0.0-x86_64-linux-gnu-ubuntu-20.04.tar.xz
+
+[binutils-ver]
+2.46.0
+
+[size]
+312M
+
+[shasum]
+699ede4ce24fd20afd149eaccd1a9f025b84e0f4fbd4b452aa7736d16608024b
