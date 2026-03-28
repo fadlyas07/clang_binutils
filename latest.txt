@@ -2,4 +2,4 @@
 # This file provides the link to the latest successfully compiled Clang with Binutils.
 # It serves as a reference for accessing the most recent version for use in various projects.
 
-latest_url=https://github.com/fadlyas07/clang_binutils/releases/download/17032026/clang-22.1.1-22.1.1-17032026-1845.tar.zst
+latest_url=https://github.com/fadlyas07/clang_binutils/releases/download/28032026/clang-22.1.2-22.1.2-28032026-1705.tar.zst
