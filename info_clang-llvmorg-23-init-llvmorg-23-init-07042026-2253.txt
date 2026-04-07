@@ -1,0 +1,20 @@
+[date]
+7 April 2026
+
+[clang-ver]
+
+
+[clang-rev]
+based on llvmorg-23-init
+
+[clang-tar]
+https://github.com/llvm/llvm-project/releases/download/llvmorg-23-init/LLVM-23-init-Linux-X64.tar.xz
+
+[binutils-ver]
+master
+
+[size]
+3.1M
+
+[shasum]
+1ce3ca04606d4c86c835235f7a179ad5aa4606fac081c18a310ff0c21035fca9

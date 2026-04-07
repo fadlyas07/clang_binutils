@@ -9,5 +9,5 @@ This repository provides prebuilt Clang toolchains integrated with Binutils. Sou
 Here are the latest releases available for use:
 
 ```bash
-https://github.com/fadlyas07/clang_binutils/releases/download/28032026/clang-22.1.2-22.1.2-28032026-1705.tar.zst
+https://github.com/fadlyas07/clang_binutils/releases/download/07042026/clang-llvmorg-23-init-llvmorg-23-init-07042026-2253.tar.zst
 ```
