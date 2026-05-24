@@ -1,0 +1,20 @@
+[date]
+25 May 2026
+
+[clang-ver]
+clang version 22.1.6 (https://github.com/llvm/llvm-project fc4aad7b5db3fff421df9a9637605b9ca5667881)
+
+[clang-rev]
+based on 22.1.6
+
+[clang-tar]
+https://github.com/llvm/llvm-project/releases/download/llvmorg-22.1.6/LLVM-22.1.6-Linux-X64.tar.xz
+
+[binutils-ver]
+master
+
+[size]
+1.1G
+
+[shasum]
+900a5aada6be4ee817793147e0793e0dc97c2bd83e832458fb5eb905b0a5414f
